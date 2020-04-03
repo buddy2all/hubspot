@@ -1,0 +1,9 @@
+I am using this file to play with branch changes. Trying to create a pull
+request for the first branch the option is grayed out. I assume this is
+because it is identical to the master branch as I made no changes when
+creating it.  The first test branch I am playing with I called 1testbranch. I
+had this file already from the touch command I did first before even creating
+this repository. I had not added it to a commit or the staging area. I added
+it and THEN went in and made this edit. I am going to see if it's a blank
+file; see if I can create the pull request; and then play with pushing the
+changes I am making right now by typing all of this.
